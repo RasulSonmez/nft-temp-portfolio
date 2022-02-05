@@ -1,0 +1,15 @@
+/*--- ABOUT ---*/
+.about {
+  &__container {
+    gap: 2.5rem;
+    img {
+      border-radius: 1rem;
+    }
+  }
+  &__description {
+    line-height: 3rem;
+  }
+  &__item {
+    text-align: center;
+  }
+}

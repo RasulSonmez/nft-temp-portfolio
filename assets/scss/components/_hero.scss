@@ -1,0 +1,30 @@
+/*--- HERO ---*/
+.hero {
+  &__container {
+    row-gap: 3rem;
+    img {
+      border-radius: 1rem;
+      object-fit: cover;
+    }
+  }
+  &__description {
+    line-height: 3rem;
+  }
+  &__title {
+    font-size: var(--biggest-font-size);
+    font-weight: var(--font-bold);
+    margin-bottom: var(--mb-0-75);
+    color: var(--color-yellow);
+  }
+  &__description {
+    margin-bottom: var(--mb-2);
+  }
+  &__item {
+    &-two {
+      display: grid;
+      grid-template-columns: 1fr;
+      gap: 2rem;
+      place-items: flex-end;
+    }
+  }
+}
