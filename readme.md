@@ -10,7 +10,7 @@
 - Developed first with the Mobile First methodology, then for desktop.
 - It contains a Header, Home, About, Colleaction,Featured Artworks, Team, FAQ and Footer.
 
-### [Live Website](https://nft-temp-one-rasulsonmez.netlify.app/)
+### [Live Website](https://nft-temp-portfolio-rasulsonmez.netlify.app/)
 
 ### `start`
 
